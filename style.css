@@ -1,0 +1,49 @@
+body {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+.main-container {
+
+}
+
+.header {
+    display: flex;
+}
+
+.title-container {
+    display: flex;
+}
+
+.title {
+    display: flex;
+}
+
+.title-img {
+    display: flex;
+}
+
+.cards {
+    display: flex;
+}
+
+.quote {
+    display: flex;
+}
+
+.call-to-action {
+    display: flex;
+}
+
+.action-text {
+    display: flex;
+}
+
+.action-button {
+    display: flex;
+}
+
+.footer {
+    display: flex;
+}
