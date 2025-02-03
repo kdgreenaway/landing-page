@@ -7,7 +7,7 @@ Red Ensign Tourism landing page.
 
 
 
-Content attrivutions:
+Content attributions:
 
 Canadian Red Ensign 1921:
 "Canadian Red Ensign 1921" by Chiconube is marked with CC0 1.0.
